@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "asdas",
+      "email": "asd",
+      "telephone": "asd",
+      "password": "asd",
+      "id": 3
+    },
+    {
+      "name": "qwe",
+      "email": "qwe",
+      "telephone": "w",
+      "password": "w",
+      "id": 4
+    },
+    {
+      "name": "qwe",
+      "email": "w",
+      "telephone": "w",
+      "password": "w",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "celular",
+      "description": "ads",
+      "category": "asd",
+      "quantity": 2
+    }
+  ]
+}
